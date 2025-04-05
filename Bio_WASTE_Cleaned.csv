@@ -1,0 +1,1001 @@
+State,Location,Agricultural Waste Type,Quantity (kg),Market Price /kg,Demand Level
+Andhra Pradesh,"15.9129° N, 79.7400° E",Rice straw ,3197.333333,24.63991755,High
+Andhra Pradesh,"15.9129° N, 79.7400° E",Sugarcane bagasse,2539.41811,26.46785784,Medium
+Arunachal Pradesh,"28.2170° N, 94.7278° E",Maize stalks,1716.5,25.84934993,Low
+Arunachal Pradesh,"28.2170° N, 94.7278° E",Pineapple leaves,2539.41811,26.77564311,Medium
+Assam,"26.2006° N, 92.9376° E",Rice straw,2204.625,25.63146317,Low
+Assam,"26.2006° N, 92.9376° E",Jute stalks,2539.41811,27.08342839,Medium
+Bihar,"25.0961° N, 85.3131° E",Rice straw,2961.875,24.65604648,High
+Bihar,"25.0961° N, 85.3131° E",Maize stalks,2366.625,24.85007672,High
+Chhattisgarh,"21.2787° N, 81.8661° E",Rice straw,1602,26.5738508,Medium
+Chhattisgarh,"21.2787° N, 81.8661° E",Maize stalks,2968.5,26.92671894,Medium
+Goa,"15.2993° N, 74.1240° E",Coconut shells,1645,25.24573505,High
+Goa,"15.2993° N, 74.1240° E",Cashew nut shells,2539.41811,27.44158993,Medium
+Gujarat,"22.2587° N, 71.1924° E",Cotton stalks,3809,25.3250237,High
+Gujarat,"22.2587° N, 71.1924° E",Groundnut shells,2539.41811,27.1034389,Medium
+Haryana,"29.0588° N, 76.0856° E",Rice straw,2312.692308,24.54275229,High
+Haryana,"29.0588° N, 76.0856° E",Wheat straw,2522,26.27982406,Medium
+Himachal Pradesh,"31.1048° N, 77.1734° E",Apple pomace,2539.41811,27.71900944,Medium
+Himachal Pradesh,"31.1048° N, 77.1734° E",Maize husks,3877,24.97719557,High
+Jharkhand,"23.6102° N, 85.2799° E",Rice straw,2169.111111,26.54385394,Medium
+Jharkhand,"23.6102° N, 85.2799° E",Maize stalks,2929.4,24.80454589,High
+Karnataka,"15.3173° N, 75.7139° E",Sugarcane bagasse,392.5,25.12105086,Low
+Karnataka,"15.3173° N, 75.7139° E", Coconut shells,2539.41811,27.85012776,Medium
+Kerala,"10.8505° N, 76.2711° E",Coconut shells,1465,25.14006363,High
+Kerala,"10.8505° N, 76.2711° E",Banana stems,2539.41811,27.51197673,Medium
+Madhya Pradesh,"22.9734° N, 78.6569° E",Rice straw,2763.75,25.52490528,Low
+Madhya Pradesh,"22.9734° N, 78.6569° E",Soybean stalks,2539.41811,26.36640531,Medium
+Maharashtra,"19.7515° N, 75.7139° E",Sugarcane bagasse,2715,24.24200272,High
+Maharashtra,"19.7515° N, 75.7139° E",Cotton stalks,2539.41811,27.15864281,Medium
+Manipur,"24.6637° N, 93.9063° E",Rice straw,2887.111111,25.50452775,Low
+Manipur,"24.6637° N, 93.9063° E",Maize stalks,2354,24.68204282,High
+Meghalaya,"25.4670° N, 91.3662° E",Rice straw,2466,26.47679499,Medium
+Meghalaya,"25.4670° N, 91.3662° E",Maize stalks,2979.4,24.71749698,High
+Mizoram,"23.1645° N, 92.9376° E",Rice straw,3246.25,25.50324055,Low
+Mizoram,"23.1645° N, 92.9376° E",Bamboo waste,3456,26.56986997,Low
+Nagaland,"26.1584° N, 94.5624° E",Rice straw,2364,25.41662414,Low
+Nagaland,"26.1584° N, 94.5624° E",Maize stalks,2735.75,26.71049631,Medium
+Odisha,"20.9517° N, 85.0985° E",Rice straw,2489.6875,25.41161785,Low
+Odisha,"20.9517° N, 85.0985° E",Maize stalks,2715,24.65054054,High
+Punjab,"31.1471° N, 75.3412° E",Rice straw,2802.3,26.44329282,Medium
+Punjab,"31.1471° N, 75.3412° E",Wheat straw,2434,25.06895794,Low
+Rajasthan,"27.0238° N, 74.2179° E",Cotton stalks ,2605,24.93423651,High
+Rajasthan,"27.0238° N, 74.2179° E",Mustard stalks,4108,26.69531321,Medium
+Sikkim,"27.5330° N, 88.5122° E",Maize husks,2539.41811,26.71421161,Medium
+Sikkim,"27.5330° N, 88.5122° E",Buckwheat stalks,2539.41811,27.27940588,Medium
+Tamil Nadu,"11.1271° N, 78.6569° E",Rice straw ,2262,24.23016261,High
+Tamil Nadu,"11.1271° N, 78.6569° E",Sugarcane bagasse,3517,26.21338549,Medium
+Telangana,"18.1124° N, 79.0193° E",Rice straw ,3210.333333,24.29176386,High
+Telangana,"18.1124° N, 79.0193° E",Maize stalks,1980.555556,25.53670645,Low
+Tripura,"23.9408° N, 91.9882° E",Rice straw,2496.428571,24.29951997,High
+Tripura,"23.9408° N, 91.9882° E",Pineapple leaves,3479,25.48136472,Low
+Uttar Pradesh,"26.8467° N, 80.9462° E",Rice straw,1296.833333,25.20875533,Low
+Uttar Pradesh,"26.8467° N, 80.9462° E",Sugarcane bagasse,2793.6,25.08771859,Low
+Uttarakhand,"30.0668° N, 79.0193° E",Rice straw,2651.846154,24.28173797,High
+Uttarakhand,"30.0668° N, 79.0193° E",Maize stalks,1747.8,25.47231218,Low
+West Bengal,"22.9868° N, 87.8550° E",Rice straw,3369.285714,24.32464434,High
+West Bengal,"22.9868° N, 87.8550° E", Jute stalks,4318,27.6556827,Medium
+Punjab,"26.8467° N, 80.9462° E",Rice straw,3872,30.65,Medium
+Goa,"15.2993° N, 74.1240° E",Banana stems,3544,30.85,Low
+Uttarakhand,"15.9129° N, 79.7400° E",Banana stems,2533,10.73,High
+Goa,"15.3173° N, 75.7139° E",Buckwheat stalks,3004,15.98,Low
+Maharashtra,"29.0588° N, 76.0856° E",Rice straw,289,6.35,Medium
+Sikkim,"22.9868° N, 87.8550° E",Sugarcane bagasse,1628,4.23,Low
+Karnataka,"21.2787° N, 81.8661° E",Rice straw,2535,47.23,High
+Chhattisgarh,"22.9734° N, 78.6569° E",Rice straw,1463,13.57,Medium
+Telangana,"26.1584° N, 94.5624° E",Groundnut shells,3252,14.42,Medium
+Rajasthan,"28.2170° N, 94.7278° E",Maize stalks,1600,48.54,Low
+Mizoram,"21.2787° N, 81.8661° E",Maize stalks,3442,6.25,Low
+Punjab,"15.3173° N, 75.7139° E",Wheat straw,437,27.91,Low
+Tamil Nadu,"27.0238° N, 74.2179° E",Rice straw,2162,9.93,High
+Chhattisgarh,"10.8505° N, 76.2711° E",Rice straw ,2127,16.09,Low
+Uttar Pradesh,"31.1048° N, 77.1734° E",Maize stalks,4614,39.02,High
+Rajasthan,"19.7515° N, 75.7139° E",Rice straw,300,31.92,Medium
+Telangana,"22.9868° N, 87.8550° E",Coconut shells,3745,17.61,Low
+Punjab,"15.3173° N, 75.7139° E",Sugarcane bagasse,1670,24.67,Medium
+Andhra Pradesh,"26.2006° N, 92.9376° E",Soybean stalks,602,39.01,Low
+Chhattisgarh,"29.0588° N, 76.0856° E",Rice straw,1584,11.68,Medium
+Uttar Pradesh,"25.4670° N, 91.3662° E",Pineapple leaves,1857,8.69,Low
+Haryana,"27.5330° N, 88.5122° E",Rice straw,1159,47.26,High
+Uttar Pradesh,"15.3173° N, 75.7139° E",Cotton stalks,2725,31.97,Low
+Maharashtra,"19.7515° N, 75.7139° E",Buckwheat stalks,3727,21.99,High
+West Bengal,"19.7515° N, 75.7139° E",Rice straw,3402,45.53,High
+Uttar Pradesh,"22.2587° N, 71.1924° E",Cotton stalks ,1382,2.33,Low
+Odisha,"23.1645° N, 92.9376° E",Rice straw,4879,13.72,Low
+Meghalaya,"10.8505° N, 76.2711° E",Cotton stalks ,3863,19.45,High
+Goa,"31.1471° N, 75.3412° E",Sugarcane bagasse,1736,15.67,High
+Tripura,"15.9129° N, 79.7400° E",Sugarcane bagasse,954,15.38,Medium
+Andhra Pradesh,"30.0668° N, 79.0193° E",Buckwheat stalks,2877,49.31,Low
+West Bengal,"15.2993° N, 74.1240° E", Jute stalks,4318,13.62,Medium
+Assam,"26.8467° N, 80.9462° E",Bamboo waste,297,21.14,Low
+Haryana,"23.1645° N, 92.9376° E",Rice straw,1247,26.39,High
+Jharkhand,"26.1584° N, 94.5624° E",Rice straw,1469,26.58,Medium
+Meghalaya,"25.0961° N, 85.3131° E",Sugarcane bagasse,588,35.17,High
+Punjab,"15.9129° N, 79.7400° E",Coconut shells,4161,35.4,Low
+Haryana,"22.9734° N, 78.6569° E",Maize stalks,1116,26.8,High
+Andhra Pradesh,"18.1124° N, 79.0193° E",Cashew nut shells,4648,45.22,Low
+Rajasthan,"26.1584° N, 94.5624° E",Rice straw,2355,45.06,Medium
+Mizoram,"10.8505° N, 76.2711° E",Sugarcane bagasse,4782,46.91,Medium
+Jharkhand,"26.1584° N, 94.5624° E",Maize stalks,2657,47.13,High
+Himachal Pradesh,"11.1271° N, 78.6569° E",Maize husks,3877,35.21,High
+Nagaland,"23.1645° N, 92.9376° E",Pineapple leaves,4593,17.62,Low
+Himachal Pradesh,"23.1645° N, 92.9376° E",Maize stalks,4655,26.42,High
+Tamil Nadu,"24.6637° N, 93.9063° E",Maize stalks,3536,25.36,High
+Mizoram,"15.3173° N, 75.7139° E",Maize stalks,1059,43.48,Low
+Jharkhand,"28.2170° N, 94.7278° E",Rice straw,3220,4.09,Medium
+Uttarakhand,"26.2006° N, 92.9376° E",Rice straw,1160,46.56,High
+Uttarakhand,"25.4670° N, 91.3662° E",Rice straw,799,42.94,High
+Karnataka,"25.4670° N, 91.3662° E",Coconut shells,1284,17.21,Medium
+Rajasthan,"25.4670° N, 91.3662° E",Maize stalks,669,46.64,Low
+Tripura,"25.4670° N, 91.3662° E",Rice straw ,3001,19.22,Medium
+Rajasthan,"15.9129° N, 79.7400° E",Soybean stalks,884,42.74,High
+Uttarakhand,"18.1124° N, 79.0193° E",Rice straw,2906,22.15,High
+Bihar,"26.1584° N, 94.5624° E",Rice straw ,4215,33.2,Medium
+Goa,"26.8467° N, 80.9462° E",Coconut shells,1266,20.03,High
+Kerala,"15.3173° N, 75.7139° E",Rice straw,3836,9.44,Medium
+Karnataka,"15.3173° N, 75.7139° E",Rice straw,1815,3.86,High
+Sikkim,"20.9517° N, 85.0985° E",Rice straw,3224,15.03,High
+Arunachal Pradesh,"26.2006° N, 92.9376° E",Rice straw ,1091,27.51,Low
+West Bengal,"31.1471° N, 75.3412° E",Sugarcane bagasse,4464,48.54,Medium
+Jharkhand,"31.1048° N, 77.1734° E", Jute stalks,930,22.81,Medium
+Odisha,"22.9734° N, 78.6569° E",Rice straw,2938,22.56,Low
+Andhra Pradesh,"18.1124° N, 79.0193° E",Bamboo waste,659,10.78,High
+Punjab,"26.2006° N, 92.9376° E", Coconut shells,2394,4.29,High
+Uttar Pradesh,"20.9517° N, 85.0985° E", Coconut shells,2844,18.41,High
+Tripura,"24.6637° N, 93.9063° E",Sugarcane bagasse,3159,10.42,Medium
+Punjab,"26.1584° N, 94.5624° E",Rice straw,1857,33.19,Medium
+Uttarakhand,"26.2006° N, 92.9376° E",Maize stalks,2949,14.52,Low
+Jharkhand,"25.4670° N, 91.3662° E",Rice straw ,1115,33.62,Low
+Tripura,"19.7515° N, 75.7139° E",Maize stalks,3646,40.45,Low
+Mizoram,"23.1645° N, 92.9376° E",Rice straw,3598,47.19,Low
+Mizoram,"31.1471° N, 75.3412° E",Maize stalks,1166,11.4,Low
+Meghalaya,"11.1271° N, 78.6569° E",Sugarcane bagasse,2646,31.68,High
+Madhya Pradesh,"25.0961° N, 85.3131° E",Rice straw,1725,18.35,Low
+Bihar,"28.2170° N, 94.7278° E",Rice straw,1616,46.96,High
+Nagaland,"21.2787° N, 81.8661° E",Rice straw,2604,29.29,Low
+Nagaland,"18.1124° N, 79.0193° E",Maize stalks,2243,18.36,Medium
+Odisha,"15.2993° N, 74.1240° E",Rice straw,3866,38.04,Low
+Rajasthan,"24.6637° N, 93.9063° E",Apple pomace,4052,26.25,High
+Gujarat,"23.6102° N, 85.2799° E",Rice straw,495,48.01,Low
+Chhattisgarh,"25.0961° N, 85.3131° E",Cotton stalks,817,34.48,Low
+Uttarakhand,"26.2006° N, 92.9376° E",Rice straw,4591,17.78,High
+Kerala,"29.0588° N, 76.0856° E",Rice straw,2256,46.68,Medium
+Assam,"26.1584° N, 94.5624° E",Coconut shells,832,18.84,Low
+Goa,"21.2787° N, 81.8661° E",Maize stalks,1053,31.67,High
+Bihar,"11.1271° N, 78.6569° E",Cotton stalks,1291,5.49,High
+Andhra Pradesh,"26.2006° N, 92.9376° E",Rice straw,3336,13.19,High
+Karnataka,"26.8467° N, 80.9462° E",Apple pomace,610,45.57,High
+Nagaland,"26.2006° N, 92.9376° E",Rice straw,1910,39.3,Low
+Maharashtra,"21.2787° N, 81.8661° E",Soybean stalks,3702,7.34,Low
+Gujarat,"23.9408° N, 91.9882° E",Cotton stalks,3809,4.7,High
+Punjab,"15.9129° N, 79.7400° E",Maize stalks,2096,13.4,High
+Tripura,"22.9734° N, 78.6569° E", Jute stalks,1028,12.73,Medium
+Sikkim,"11.1271° N, 78.6569° E",Maize stalks,1952,17.49,High
+Goa,"20.9517° N, 85.0985° E",Maize stalks,1350,35.38,High
+Rajasthan,"23.9408° N, 91.9882° E",Groundnut shells,3586,49.8,Medium
+Haryana,"10.8505° N, 76.2711° E",Coconut shells,1453,47.62,Medium
+Uttarakhand,"25.0961° N, 85.3131° E",Cotton stalks,4285,20.64,Low
+Maharashtra,"20.9517° N, 85.0985° E",Cotton stalks ,4935,49.34,Medium
+Chhattisgarh,"23.1645° N, 92.9376° E",Rice straw,2608,34.87,Medium
+Nagaland,"26.2006° N, 92.9376° E",Maize husks,355,29.9,Medium
+West Bengal,"24.6637° N, 93.9063° E",Pineapple leaves,1115,20.07,High
+Meghalaya,"18.1124° N, 79.0193° E",Rice straw,4258,20.86,Medium
+Tripura,"22.2587° N, 71.1924° E",Rice straw,1733,3.77,High
+Assam,"19.7515° N, 75.7139° E",Apple pomace,2856,49.99,Medium
+Uttarakhand,"10.8505° N, 76.2711° E",Rice straw,3736,47.35,High
+Himachal Pradesh,"15.3173° N, 75.7139° E",Groundnut shells,2148,47.79,High
+Andhra Pradesh,"23.9408° N, 91.9882° E",Wheat straw,1923,4.25,Low
+Punjab,"22.9734° N, 78.6569° E",Bamboo waste,4633,39.07,High
+Goa,"15.9129° N, 79.7400° E",Maize stalks,335,28.93,High
+Himachal Pradesh,"18.1124° N, 79.0193° E",Rice straw ,3378,39.66,Medium
+Goa,"26.8467° N, 80.9462° E",Rice straw,4959,49.06,Medium
+Himachal Pradesh,"24.6637° N, 93.9063° E",Rice straw,2582,45.4,High
+Mizoram,"10.8505° N, 76.2711° E",Rice straw,4737,31.86,Low
+Assam,"24.6637° N, 93.9063° E",Pineapple leaves,237,46.48,Medium
+Jharkhand,"10.8505° N, 76.2711° E",Rice straw,2693,31.8,Medium
+Sikkim,"27.5330° N, 88.5122° E",Maize stalks,4142,5.64,High
+West Bengal,"29.0588° N, 76.0856° E",Rice straw,3545,35.49,High
+Meghalaya,"28.2170° N, 94.7278° E",Sugarcane bagasse,4288,48.71,High
+Uttar Pradesh,"23.6102° N, 85.2799° E",Sugarcane bagasse,4799,18.69,Low
+Andhra Pradesh,"26.2006° N, 92.9376° E",Cotton stalks ,623,11.9,Medium
+Madhya Pradesh,"11.1271° N, 78.6569° E",Sugarcane bagasse,2396,25.09,Medium
+West Bengal,"24.6637° N, 93.9063° E",Maize husks,2978,20.11,High
+Nagaland,"15.9129° N, 79.7400° E",Maize stalks,4820,30.67,Medium
+West Bengal,"15.3173° N, 75.7139° E",Groundnut shells,4669,38.48,Medium
+Andhra Pradesh,"11.1271° N, 78.6569° E",Soybean stalks,4721,9.09,Low
+Arunachal Pradesh,"18.1124° N, 79.0193° E",Coconut shells,2897,37.98,Low
+Odisha,"26.1584° N, 94.5624° E",Rice straw,3186,7.03,Low
+Chhattisgarh,"31.1471° N, 75.3412° E",Apple pomace,225,7.75,High
+Jharkhand,"22.9734° N, 78.6569° E",Pineapple leaves,166,33.14,Medium
+Nagaland,"18.1124° N, 79.0193° E", Coconut shells,4818,37.78,High
+Jharkhand,"27.0238° N, 74.2179° E",Cotton stalks ,2760,19.43,Medium
+Mizoram,"22.9868° N, 87.8550° E",Rice straw ,3912,46.82,Low
+Karnataka,"26.2006° N, 92.9376° E",Jute stalks,2663,42.84,Medium
+Manipur,"25.4670° N, 91.3662° E",Banana stems,2970,42.43,High
+Meghalaya,"31.1471° N, 75.3412° E",Rice straw,2695,49.87,Medium
+Jharkhand,"19.7515° N, 75.7139° E",Coconut shells,103,2.25,High
+West Bengal,"20.9517° N, 85.0985° E",Rice straw,4389,28.72,High
+Sikkim,"26.2006° N, 92.9376° E",Jute stalks,1241,36.13,High
+Tripura,"15.2993° N, 74.1240° E",Rice straw ,2148,31.31,Medium
+Goa,"26.1584° N, 94.5624° E",Cotton stalks,2126,30.51,High
+West Bengal,"21.2787° N, 81.8661° E",Rice straw,1773,49.52,High
+Andhra Pradesh,"23.6102° N, 85.2799° E",Rice straw ,1442,34.71,High
+Goa,"29.0588° N, 76.0856° E",Banana stems,2138,40.13,Low
+Assam,"27.5330° N, 88.5122° E",Pineapple leaves,4529,46.78,Medium
+Mizoram,"15.2993° N, 74.1240° E",Rice straw,1670,46.47,Low
+Manipur,"25.0961° N, 85.3131° E",Coconut shells,972,38.02,Medium
+Karnataka,"20.9517° N, 85.0985° E",Rice straw,2998,33.93,High
+Arunachal Pradesh,"22.9734° N, 78.6569° E",Rice straw ,1165,20.84,Low
+Gujarat,"25.4670° N, 91.3662° E",Rice straw,4770,26.13,Low
+Mizoram,"18.1124° N, 79.0193° E",Rice straw,4133,28.09,Low
+Uttar Pradesh,"26.2006° N, 92.9376° E",Jute stalks,2726,32.13,Medium
+Telangana,"24.6637° N, 93.9063° E",Rice straw,2135,37.59,Low
+Odisha,"23.1645° N, 92.9376° E",Rice straw,1050,8.87,Low
+Chhattisgarh,"26.2006° N, 92.9376° E",Maize stalks,3012,6.94,Medium
+Telangana,"26.1584° N, 94.5624° E",Rice straw ,3328,27.91,High
+Arunachal Pradesh,"15.2993° N, 74.1240° E",Rice straw ,4325,2.59,Low
+Nagaland,"26.1584° N, 94.5624° E",Soybean stalks,1934,30.75,Low
+Chhattisgarh,"31.1471° N, 75.3412° E",Maize stalks,3305,21.24,Medium
+Tamil Nadu,"27.5330° N, 88.5122° E",Cashew nut shells,2365,30.14,Medium
+Madhya Pradesh,"23.1645° N, 92.9376° E",Rice straw ,1739,43.86,High
+Bihar,"27.0238° N, 74.2179° E",Rice straw,703,19.97,High
+Manipur,"22.2587° N, 71.1924° E",Wheat straw,3468,46.43,Low
+Tamil Nadu,"20.9517° N, 85.0985° E",Sugarcane bagasse,3517,42.27,Medium
+Andhra Pradesh,"30.0668° N, 79.0193° E",Rice straw,2808,20.21,High
+Chhattisgarh,"26.8467° N, 80.9462° E",Rice straw,674,21.9,Medium
+Odisha,"15.9129° N, 79.7400° E",Rice straw,3381,25.08,Low
+Sikkim,"27.5330° N, 88.5122° E",Rice straw,1305,10.47,High
+Assam,"30.0668° N, 79.0193° E",Banana stems,4480,29.87,Medium
+Maharashtra,"23.9408° N, 91.9882° E",Sugarcane bagasse,3220,10.55,High
+Jharkhand,"30.0668° N, 79.0193° E", Coconut shells,1824,10.85,High
+Meghalaya,"22.2587° N, 71.1924° E",Maize stalks,2362,22.49,High
+Meghalaya,"24.6637° N, 93.9063° E",Rice straw,3476,3.75,Medium
+Punjab,"23.6102° N, 85.2799° E",Maize husks,868,39.23,High
+Uttarakhand,"19.7515° N, 75.7139° E",Rice straw,2261,25.86,High
+Arunachal Pradesh,"15.9129° N, 79.7400° E",Maize stalks,4250,47.41,Low
+Mizoram,"10.8505° N, 76.2711° E",Rice straw,1923,36.37,Low
+Andhra Pradesh,"22.9868° N, 87.8550° E",Maize stalks,2590,26.26,Low
+Telangana,"20.9517° N, 85.0985° E",Maize stalks,3775,13.43,Low
+Meghalaya,"10.8505° N, 76.2711° E",Groundnut shells,1411,43.07,Low
+Uttarakhand,"15.3173° N, 75.7139° E",Groundnut shells,922,45.02,Low
+Bihar,"23.1645° N, 92.9376° E",Coconut shells,3256,3.27,High
+Manipur,"31.1048° N, 77.1734° E",Sugarcane bagasse,2020,41.24,Low
+Andhra Pradesh,"28.2170° N, 94.7278° E",Coconut shells,3290,14.87,High
+Odisha,"24.6637° N, 93.9063° E",Rice straw,3677,38.65,Low
+Manipur,"22.9868° N, 87.8550° E",Sugarcane bagasse,4323,10.74,Low
+Himachal Pradesh,"22.2587° N, 71.1924° E",Rice straw,2699,35.54,High
+Chhattisgarh,"30.0668° N, 79.0193° E", Coconut shells,2641,49.25,Medium
+Tamil Nadu,"23.1645° N, 92.9376° E",Coconut shells,904,2.88,Low
+Karnataka,"27.0238° N, 74.2179° E",Maize stalks,140,15.15,High
+Madhya Pradesh,"20.9517° N, 85.0985° E",Cashew nut shells,1722,7.12,High
+Meghalaya,"26.2006° N, 92.9376° E",Sugarcane bagasse,4363,14.04,High
+Bihar,"21.2787° N, 81.8661° E",Rice straw ,3572,22.1,Medium
+Tamil Nadu,"15.9129° N, 79.7400° E",Maize stalks,1486,10.85,High
+Uttar Pradesh,"22.9734° N, 78.6569° E",Rice straw,248,42.18,Low
+Tripura,"31.1471° N, 75.3412° E",Wheat straw,1350,47.57,Low
+Kerala,"30.0668° N, 79.0193° E", Coconut shells,1885,3.5,High
+Uttar Pradesh,"27.5330° N, 88.5122° E",Apple pomace,4560,9.42,High
+Andhra Pradesh,"30.0668° N, 79.0193° E",Rice straw,2443,36.95,High
+Sikkim,"31.1471° N, 75.3412° E",Mustard stalks,4220,13.83,Low
+Sikkim,"27.5330° N, 88.5122° E",Rice straw,3649,2.25,High
+Sikkim,"23.9408° N, 91.9882° E",Apple pomace,429,35.15,High
+Goa,"29.0588° N, 76.0856° E",Banana stems,438,37.15,Low
+Kerala,"20.9517° N, 85.0985° E",Maize stalks,809,49.07,Medium
+Goa,"29.0588° N, 76.0856° E",Soybean stalks,588,47.31,Low
+Chhattisgarh,"29.0588° N, 76.0856° E",Rice straw,500,10.67,Medium
+Bihar,"22.2587° N, 71.1924° E",Rice straw,728,37.09,High
+Bihar,"23.9408° N, 91.9882° E",Coconut shells,1600,24.76,High
+Himachal Pradesh,"22.2587° N, 71.1924° E",Rice straw,3323,13.04,High
+Arunachal Pradesh,"20.9517° N, 85.0985° E",Maize husks,3083,23.17,High
+Punjab,"29.0588° N, 76.0856° E", Jute stalks,3687,39.95,High
+Mizoram,"29.0588° N, 76.0856° E",Rice straw ,1231,13.18,Low
+Rajasthan,"23.1645° N, 92.9376° E",Maize stalks,4446,43.99,Low
+Meghalaya,"25.4670° N, 91.3662° E",Rice straw,913,18.83,Medium
+Uttarakhand,"27.5330° N, 88.5122° E",Wheat straw,3611,15.04,High
+Manipur,"22.9734° N, 78.6569° E",Rice straw,4535,37.4,Low
+Arunachal Pradesh,"11.1271° N, 78.6569° E",Groundnut shells,475,15.79,Medium
+Madhya Pradesh,"18.1124° N, 79.0193° E",Rice straw ,2732,7.25,High
+Arunachal Pradesh,"15.2993° N, 74.1240° E",Rice straw,2208,14.43,Medium
+West Bengal,"11.1271° N, 78.6569° E",Banana stems,110,45.38,High
+Bihar,"26.8467° N, 80.9462° E",Pineapple leaves,984,41.87,Medium
+Sikkim,"23.1645° N, 92.9376° E",Soybean stalks,1036,10.95,Low
+Assam,"26.2006° N, 92.9376° E",Maize stalks,826,44.42,High
+Tripura,"27.0238° N, 74.2179° E",Rice straw,2837,25.58,High
+Arunachal Pradesh,"25.4670° N, 91.3662° E",Rice straw,4169,31.9,Medium
+Chhattisgarh,"28.2170° N, 94.7278° E",Groundnut shells,1480,6.39,High
+Maharashtra,"24.6637° N, 93.9063° E",Rice straw,1318,47.87,Medium
+Haryana,"31.1471° N, 75.3412° E",Rice straw,1518,6.18,High
+Bihar,"26.2006° N, 92.9376° E",Maize stalks,1013,5.89,High
+Assam,"22.2587° N, 71.1924° E",Apple pomace,3211,44.38,Medium
+Uttar Pradesh,"28.2170° N, 94.7278° E", Jute stalks,3211,34.54,High
+Mizoram,"26.2006° N, 92.9376° E",Banana stems,2483,33.61,High
+Telangana,"27.0238° N, 74.2179° E",Cotton stalks,462,13.46,High
+Nagaland,"19.7515° N, 75.7139° E",Maize stalks,4895,9.61,Medium
+Uttar Pradesh,"25.4670° N, 91.3662° E",Coconut shells,4621,8.19,Low
+Punjab,"25.4670° N, 91.3662° E",Maize husks,2503,28.7,High
+Punjab,"15.9129° N, 79.7400° E",Maize stalks,3217,17.67,High
+Punjab,"25.4670° N, 91.3662° E",Bamboo waste,4895,2.44,High
+Telangana,"26.2006° N, 92.9376° E",Rice straw,3626,27.98,Low
+Maharashtra,"29.0588° N, 76.0856° E",Maize stalks,2184,6.92,Medium
+Maharashtra,"31.1048° N, 77.1734° E",Cashew nut shells,1017,36.01,Low
+Karnataka,"22.9734° N, 78.6569° E", Jute stalks,2453,49.53,Low
+Goa,"26.1584° N, 94.5624° E",Rice straw,2528,20.41,Medium
+Assam,"18.1124° N, 79.0193° E",Rice straw,4099,38.98,Low
+Mizoram,"11.1271° N, 78.6569° E",Bamboo waste,3456,47.33,Low
+Haryana,"22.9868° N, 87.8550° E",Rice straw,2304,16.32,High
+Gujarat,"23.6102° N, 85.2799° E", Coconut shells,3630,15.12,High
+West Bengal,"19.7515° N, 75.7139° E",Rice straw,4216,45.66,High
+Assam,"23.6102° N, 85.2799° E",Rice straw,4765,44.92,Low
+Nagaland,"23.9408° N, 91.9882° E",Rice straw,891,19.69,Low
+Maharashtra,"25.0961° N, 85.3131° E",Sugarcane bagasse,1084,43.69,High
+Haryana,"19.7515° N, 75.7139° E",Sugarcane bagasse,3733,38.53,High
+Sikkim,"30.0668° N, 79.0193° E",Banana stems,3999,48.44,Medium
+Madhya Pradesh,"24.6637° N, 93.9063° E",Groundnut shells,3444,31.15,High
+Telangana,"15.3173° N, 75.7139° E",Maize stalks,216,30.33,Low
+Gujarat,"31.1048° N, 77.1734° E",Maize stalks,3960,5.48,Medium
+Odisha,"25.4670° N, 91.3662° E",Coconut shells,828,43.29,Medium
+Karnataka,"26.8467° N, 80.9462° E",Banana stems,1676,13.62,High
+Meghalaya,"29.0588° N, 76.0856° E",Wheat straw,2820,28.86,Medium
+Andhra Pradesh,"23.1645° N, 92.9376° E",Rice straw,4144,5.96,High
+Madhya Pradesh,"15.3173° N, 75.7139° E",Rice straw,2341,48.92,Low
+Tripura,"29.0588° N, 76.0856° E",Bamboo waste,205,10.04,High
+Goa,"28.2170° N, 94.7278° E",Jute stalks,2156,46.94,Low
+Meghalaya,"27.0238° N, 74.2179° E",Pineapple leaves,815,43.81,Medium
+Jharkhand,"18.1124° N, 79.0193° E",Rice straw,558,44.95,Medium
+Karnataka,"22.9734° N, 78.6569° E",Maize stalks,4209,5.92,High
+Kerala,"15.2993° N, 74.1240° E",Cotton stalks,1660,43.85,Medium
+West Bengal,"11.1271° N, 78.6569° E",Maize stalks,4880,10.74,Medium
+West Bengal,"25.4670° N, 91.3662° E",Rice straw,3765,3,High
+Odisha,"25.4670° N, 91.3662° E", Jute stalks,3020,25.68,Low
+Nagaland,"24.6637° N, 93.9063° E",Maize stalks,452,42.34,Medium
+Karnataka,"25.4670° N, 91.3662° E",Banana stems,503,32.18,High
+Kerala,"23.9408° N, 91.9882° E",Rice straw,4803,30.23,Medium
+Mizoram,"26.1584° N, 94.5624° E",Sugarcane bagasse,2482,45.23,Medium
+Rajasthan,"26.8467° N, 80.9462° E",Rice straw,4381,45.79,Medium
+Himachal Pradesh,"31.1471° N, 75.3412° E",Sugarcane bagasse,3058,13.32,Low
+Nagaland,"18.1124° N, 79.0193° E",Maize stalks,3469,13.4,Medium
+West Bengal,"20.9517° N, 85.0985° E",Rice straw,4105,25.63,High
+Telangana,"22.2587° N, 71.1924° E", Jute stalks,2378,19.24,Medium
+Assam,"31.1048° N, 77.1734° E",Rice straw,2140,21.15,Low
+Assam,"15.9129° N, 79.7400° E",Wheat straw,4655,8.28,High
+Meghalaya,"15.2993° N, 74.1240° E",Maize stalks,3878,23.22,High
+Chhattisgarh,"15.2993° N, 74.1240° E",Maize stalks,3532,22.68,Medium
+Uttarakhand,"23.6102° N, 85.2799° E",Cotton stalks,3292,31.07,Low
+Odisha,"23.9408° N, 91.9882° E",Rice straw,1755,40.67,Low
+Assam,"27.5330° N, 88.5122° E",Maize stalks,4053,49.36,High
+Jharkhand,"22.9734° N, 78.6569° E",Rice straw,1158,23.71,Medium
+Assam,"23.1645° N, 92.9376° E",Rice straw,1329,35.03,Low
+Kerala,"27.5330° N, 88.5122° E",Bamboo waste,4412,32.68,High
+Meghalaya,"22.9868° N, 87.8550° E",Rice straw ,3349,18.45,Medium
+Kerala,"11.1271° N, 78.6569° E",Sugarcane bagasse,2069,11.69,Low
+Tripura,"15.3173° N, 75.7139° E",Rice straw ,1114,34.28,Medium
+Telangana,"15.3173° N, 75.7139° E",Rice straw ,3973,33.76,High
+Sikkim,"21.2787° N, 81.8661° E",Maize stalks,4149,31.66,High
+Tripura,"15.2993° N, 74.1240° E",Sugarcane bagasse,1963,40.18,Medium
+Jharkhand,"25.4670° N, 91.3662° E",Wheat straw,3224,34.01,Low
+Maharashtra,"15.9129° N, 79.7400° E",Pineapple leaves,803,4.31,High
+Rajasthan,"22.9734° N, 78.6569° E",Maize stalks,2732,6.34,Low
+Mizoram,"20.9517° N, 85.0985° E",Sugarcane bagasse,1767,34.04,Medium
+Gujarat,"27.0238° N, 74.2179° E",Coconut shells,950,43.71,High
+Uttarakhand,"25.0961° N, 85.3131° E",Rice straw,2872,17.58,High
+Haryana,"15.3173° N, 75.7139° E",Rice straw,2975,28.33,High
+Meghalaya,"23.9408° N, 91.9882° E",Rice straw,3438,30.97,Medium
+Andhra Pradesh,"11.1271° N, 78.6569° E",Rice straw,1126,28.03,High
+Manipur,"22.9734° N, 78.6569° E",Rice straw,111,9.15,Low
+Nagaland,"29.0588° N, 76.0856° E",Maize husks,1043,28.37,Medium
+Sikkim,"11.1271° N, 78.6569° E",Sugarcane bagasse,506,22.68,Low
+Haryana,"22.9734° N, 78.6569° E",Maize stalks,814,20.24,High
+Karnataka,"23.6102° N, 85.2799° E",Bamboo waste,1063,14.33,High
+Manipur,"18.1124° N, 79.0193° E",Cotton stalks,205,31.3,Medium
+Tripura,"22.2587° N, 71.1924° E",Pineapple leaves,2237,7.85,Low
+Meghalaya,"27.5330° N, 88.5122° E",Maize stalks,3754,16.17,High
+West Bengal,"26.1584° N, 94.5624° E",Maize stalks,1575,6.18,Medium
+West Bengal,"11.1271° N, 78.6569° E",Mustard stalks,3038,2.12,Low
+Karnataka,"15.3173° N, 75.7139° E",Cotton stalks,4076,40.1,Low
+Kerala,"27.0238° N, 74.2179° E",Maize stalks,4915,28.72,Medium
+Arunachal Pradesh,"23.9408° N, 91.9882° E",Banana stems,3783,22.34,Medium
+Himachal Pradesh,"23.6102° N, 85.2799° E",Maize stalks,3140,22.35,High
+Tripura,"26.1584° N, 94.5624° E",Buckwheat stalks,1349,24.7,High
+Telangana,"20.9517° N, 85.0985° E",Rice straw,2566,31.14,Low
+Chhattisgarh,"22.2587° N, 71.1924° E",Cotton stalks,540,25.84,Low
+Nagaland,"25.0961° N, 85.3131° E",Sugarcane bagasse,3829,21.41,Medium
+Punjab,"27.0238° N, 74.2179° E",Rice straw,3451,8.16,Medium
+Madhya Pradesh,"20.9517° N, 85.0985° E",Mustard stalks,1290,39.09,High
+Nagaland,"28.2170° N, 94.7278° E",Rice straw,2014,18.49,Low
+Gujarat,"23.9408° N, 91.9882° E",Sugarcane bagasse,2664,5.36,High
+Odisha,"25.0961° N, 85.3131° E",Pineapple leaves,166,27.58,High
+Arunachal Pradesh,"15.3173° N, 75.7139° E",Jute stalks,2874,20.17,High
+Nagaland,"23.1645° N, 92.9376° E",Coconut shells,4311,4.89,High
+Assam,"22.2587° N, 71.1924° E",Rice straw,2434,38.23,Low
+Rajasthan,"24.6637° N, 93.9063° E",Rice straw,3059,2.06,Medium
+Manipur,"11.1271° N, 78.6569° E",Coconut shells,4543,48.76,Medium
+Jharkhand,"31.1471° N, 75.3412° E", Jute stalks,463,13.7,Medium
+Jharkhand,"26.2006° N, 92.9376° E", Coconut shells,4651,38.25,High
+Goa,"20.9517° N, 85.0985° E",Sugarcane bagasse,2885,5.03,High
+Tripura,"11.1271° N, 78.6569° E",Sugarcane bagasse,2508,6.21,Medium
+Chhattisgarh,"15.9129° N, 79.7400° E",Coconut shells,1825,23.47,Medium
+Assam,"26.1584° N, 94.5624° E", Coconut shells,2290,49.62,High
+Rajasthan,"15.2993° N, 74.1240° E",Rice straw ,660,7.59,Medium
+Manipur,"10.8505° N, 76.2711° E",Mustard stalks,233,8.78,Low
+Chhattisgarh,"29.0588° N, 76.0856° E",Sugarcane bagasse,4325,12.73,High
+Himachal Pradesh,"21.2787° N, 81.8661° E",Rice straw,2085,8.36,High
+Nagaland,"25.4670° N, 91.3662° E",Groundnut shells,1233,45.12,High
+Gujarat,"30.0668° N, 79.0193° E",Bamboo waste,3064,3.24,High
+Arunachal Pradesh,"11.1271° N, 78.6569° E",Cashew nut shells,4323,22.76,High
+Gujarat,"23.6102° N, 85.2799° E",Maize husks,3136,7.07,High
+Manipur,"27.5330° N, 88.5122° E",Sugarcane bagasse,2810,9.3,Low
+Jharkhand,"23.1645° N, 92.9376° E",Maize stalks,4837,25.26,High
+Meghalaya,"22.9868° N, 87.8550° E",Rice straw,556,22.66,Medium
+Karnataka,"21.2787° N, 81.8661° E",Cotton stalks,4385,14.74,Low
+Haryana,"23.1645° N, 92.9376° E",Pineapple leaves,1738,12.99,High
+Uttar Pradesh,"24.6637° N, 93.9063° E",Sugarcane bagasse,519,27.3,Low
+Odisha,"26.8467° N, 80.9462° E",Rice straw,2239,25.12,Low
+Karnataka,"26.2006° N, 92.9376° E",Rice straw,4581,8.42,High
+Odisha,"29.0588° N, 76.0856° E",Sugarcane bagasse,1000,12.33,High
+Tamil Nadu,"15.3173° N, 75.7139° E",Rice straw,2485,5.1,High
+Goa,"15.3173° N, 75.7139° E",Sugarcane bagasse,4378,9.16,High
+Mizoram,"26.8467° N, 80.9462° E",Maize stalks,3935,33.28,Low
+Manipur,"26.8467° N, 80.9462° E",Rice straw,3593,20.83,Low
+Rajasthan,"31.1048° N, 77.1734° E", Jute stalks,492,47.26,Medium
+Telangana,"24.6637° N, 93.9063° E",Rice straw,341,3.84,Low
+Goa,"22.9868° N, 87.8550° E",Bamboo waste,875,44.97,High
+Himachal Pradesh,"10.8505° N, 76.2711° E",Banana stems,2248,4.3,High
+Sikkim,"15.9129° N, 79.7400° E",Rice straw ,3606,5.42,High
+Jharkhand,"15.3173° N, 75.7139° E",Wheat straw,3997,24.17,Low
+Bihar,"26.8467° N, 80.9462° E",Cotton stalks,662,10.36,High
+Manipur,"30.0668° N, 79.0193° E",Maize stalks,2667,14.72,High
+Meghalaya,"18.1124° N, 79.0193° E",Cotton stalks,1346,39.56,High
+Andhra Pradesh,"29.0588° N, 76.0856° E",Pineapple leaves,1062,7.83,Medium
+Gujarat,"27.0238° N, 74.2179° E",Cotton stalks ,4412,27.45,Medium
+Tripura,"21.2787° N, 81.8661° E",Sugarcane bagasse,3847,16.06,Medium
+Uttarakhand,"25.4670° N, 91.3662° E",Rice straw,4083,40.96,High
+Chhattisgarh,"29.0588° N, 76.0856° E",Apple pomace,1035,30.73,High
+Punjab,"22.2587° N, 71.1924° E",Rice straw,3797,47.27,Medium
+Sikkim,"25.4670° N, 91.3662° E",Rice straw,785,2.61,High
+Meghalaya,"24.6637° N, 93.9063° E",Rice straw,138,42.63,Medium
+Karnataka,"22.2587° N, 71.1924° E",Sugarcane bagasse,401,36.97,Low
+Sikkim,"25.4670° N, 91.3662° E",Coconut shells,4451,28.16,Low
+Karnataka,"19.7515° N, 75.7139° E",Rice straw,3637,7.18,High
+Tripura,"25.4670° N, 91.3662° E",Rice straw,4182,9.23,High
+Sikkim,"20.9517° N, 85.0985° E",Rice straw,2843,31.37,High
+Kerala,"24.6637° N, 93.9063° E",Maize stalks,1404,38.53,Medium
+Rajasthan,"29.0588° N, 76.0856° E",Maize stalks,1384,44.31,Low
+Rajasthan,"23.1645° N, 92.9376° E",Maize husks,2620,28.64,Medium
+Maharashtra,"19.7515° N, 75.7139° E",Sugarcane bagasse,2259,39.62,High
+Madhya Pradesh,"30.0668° N, 79.0193° E",Cashew nut shells,2356,2.53,High
+Goa,"29.0588° N, 76.0856° E",Rice straw,3995,26.1,Medium
+Telangana,"28.2170° N, 94.7278° E",Maize stalks,2029,44.54,Low
+Odisha,"20.9517° N, 85.0985° E",Sugarcane bagasse,2123,10.56,High
+Tamil Nadu,"28.2170° N, 94.7278° E",Rice straw ,2420,30.23,High
+Arunachal Pradesh,"10.8505° N, 76.2711° E",Rice straw,4531,12.82,Medium
+Mizoram,"24.6637° N, 93.9063° E",Maize husks,3359,41.6,High
+Tamil Nadu,"23.6102° N, 85.2799° E", Coconut shells,763,18.04,Medium
+Odisha,"30.0668° N, 79.0193° E",Rice straw,967,26.83,Low
+Manipur,"22.9868° N, 87.8550° E",Rice straw,1306,13.32,Low
+Tripura,"19.7515° N, 75.7139° E",Rice straw ,1119,16.37,Medium
+Arunachal Pradesh,"23.6102° N, 85.2799° E",Maize stalks,2110,34.92,Low
+Goa,"31.1471° N, 75.3412° E",Rice straw,4797,30.21,Medium
+Chhattisgarh,"23.9408° N, 91.9882° E",Maize stalks,3796,30.12,Medium
+Himachal Pradesh,"11.1271° N, 78.6569° E",Rice straw,4086,14.45,High
+Manipur,"20.9517° N, 85.0985° E",Maize stalks,2196,22.89,High
+Assam,"22.9734° N, 78.6569° E",Pineapple leaves,4833,36.94,Medium
+Kerala,"26.1584° N, 94.5624° E",Jute stalks,2956,9.63,High
+Jharkhand,"10.8505° N, 76.2711° E",Rice straw,4743,2.64,Medium
+Maharashtra,"25.0961° N, 85.3131° E",Rice straw,2074,45.5,Medium
+Haryana,"30.0668° N, 79.0193° E",Rice straw,1741,42.55,High
+Chhattisgarh,"11.1271° N, 78.6569° E",Maize stalks,1819,4.23,Medium
+Sikkim,"15.3173° N, 75.7139° E",Pineapple leaves,789,21.73,Low
+Haryana,"31.1048° N, 77.1734° E",Maize stalks,1271,8.14,High
+Sikkim,"22.9868° N, 87.8550° E",Groundnut shells,4360,49.1,Medium
+Arunachal Pradesh,"10.8505° N, 76.2711° E",Soybean stalks,2452,24.27,High
+Goa,"27.0238° N, 74.2179° E",Rice straw,4824,12.82,Medium
+Karnataka,"22.9868° N, 87.8550° E",Rice straw,4788,49.06,High
+Maharashtra,"27.5330° N, 88.5122° E",Cotton stalks ,3769,28.34,Medium
+Mizoram,"15.9129° N, 79.7400° E",Maize stalks,3688,47.39,Low
+Chhattisgarh,"23.1645° N, 92.9376° E",Wheat straw,4630,33.25,Medium
+Kerala,"18.1124° N, 79.0193° E",Wheat straw,4766,24.04,Low
+Tripura,"25.4670° N, 91.3662° E",Rice straw,2424,9.91,High
+Tamil Nadu,"26.8467° N, 80.9462° E", Coconut shells,2891,44.14,Medium
+Maharashtra,"22.2587° N, 71.1924° E",Sugarcane bagasse,3148,28.89,High
+Madhya Pradesh,"22.9868° N, 87.8550° E",Maize stalks,2091,15.56,Medium
+Assam,"31.1471° N, 75.3412° E",Sugarcane bagasse,1914,41.46,Medium
+Uttar Pradesh,"15.2993° N, 74.1240° E", Jute stalks,3757,6.51,High
+Odisha,"15.3173° N, 75.7139° E",Maize stalks,4754,11.4,High
+Himachal Pradesh,"27.0238° N, 74.2179° E",Maize stalks,3625,40.08,High
+Arunachal Pradesh,"11.1271° N, 78.6569° E",Maize stalks,382,15.29,Low
+Andhra Pradesh,"22.9868° N, 87.8550° E",Maize stalks,712,37.17,Low
+Arunachal Pradesh,"24.6637° N, 93.9063° E",Jute stalks,1881,43.13,High
+Goa,"11.1271° N, 78.6569° E",Rice straw,674,25.3,Medium
+Manipur,"22.2587° N, 71.1924° E",Bamboo waste,1383,49.86,Low
+West Bengal,"19.7515° N, 75.7139° E",Rice straw,1660,6.47,High
+Assam,"26.1584° N, 94.5624° E",Cotton stalks,364,41.32,Medium
+Jharkhand,"27.5330° N, 88.5122° E",Coconut shells,3090,33.28,High
+Kerala,"23.1645° N, 92.9376° E", Coconut shells,1254,44.23,High
+Maharashtra,"22.9868° N, 87.8550° E",Soybean stalks,289,36.52,Low
+Mizoram,"27.0238° N, 74.2179° E",Rice straw,4533,37.94,Low
+Telangana,"15.3173° N, 75.7139° E",Apple pomace,1774,42.5,Low
+Jharkhand,"29.0588° N, 76.0856° E",Bamboo waste,1189,17.12,Low
+Jharkhand,"15.9129° N, 79.7400° E",Maize stalks,3930,15.41,High
+Arunachal Pradesh,"22.9734° N, 78.6569° E",Rice straw ,4728,3.59,Low
+Uttar Pradesh,"22.2587° N, 71.1924° E",Maize stalks,559,13.17,High
+Gujarat,"29.0588° N, 76.0856° E",Maize husks,1238,45.55,High
+Kerala,"19.7515° N, 75.7139° E",Bamboo waste,2697,12.88,High
+Nagaland,"23.6102° N, 85.2799° E",Maize stalks,4017,25,Medium
+Punjab,"10.8505° N, 76.2711° E",Groundnut shells,4349,48.38,Medium
+Tamil Nadu,"26.8467° N, 80.9462° E",Maize stalks,1549,35.57,High
+Gujarat,"21.2787° N, 81.8661° E",Rice straw,4828,15.51,Low
+Odisha,"30.0668° N, 79.0193° E",Maize stalks,2612,13.61,High
+Madhya Pradesh,"22.2587° N, 71.1924° E",Coconut shells,1862,12.86,Medium
+Rajasthan,"28.2170° N, 94.7278° E",Pineapple leaves,1087,42.91,High
+Tamil Nadu,"15.3173° N, 75.7139° E",Cotton stalks ,3298,32.06,High
+Tripura,"18.1124° N, 79.0193° E",Maize stalks,2415,29.97,Low
+Karnataka,"15.3173° N, 75.7139° E",Rice straw,1399,12.57,High
+Chhattisgarh,"28.2170° N, 94.7278° E",Rice straw,1076,5.1,Medium
+Tamil Nadu,"10.8505° N, 76.2711° E",Rice straw ,1547,17.21,High
+Haryana,"27.0238° N, 74.2179° E",Rice straw,2173,9.91,High
+Karnataka,"26.8467° N, 80.9462° E",Maize stalks,4700,35.73,High
+Maharashtra,"28.2170° N, 94.7278° E", Coconut shells,678,33.31,Medium
+Maharashtra,"22.9868° N, 87.8550° E",Cotton stalks ,1892,14.91,Medium
+Karnataka,"22.9734° N, 78.6569° E",Maize husks,2036,3.91,Medium
+Maharashtra,"25.0961° N, 85.3131° E",Rice straw,3551,24.54,Medium
+Tamil Nadu,"23.9408° N, 91.9882° E",Rice straw,241,31.32,High
+West Bengal,"23.9408° N, 91.9882° E",Cotton stalks,4896,2.26,Medium
+Bihar,"27.5330° N, 88.5122° E",Maize stalks,4797,24.22,High
+Rajasthan,"27.5330° N, 88.5122° E",Maize stalks,2529,15.34,Low
+Rajasthan,"31.1048° N, 77.1734° E",Banana stems,1912,18.57,Low
+Rajasthan,"31.1471° N, 75.3412° E",Cotton stalks,1617,49.66,High
+Tamil Nadu,"11.1271° N, 78.6569° E",Rice straw ,3339,22.25,High
+Goa,"18.1124° N, 79.0193° E",Rice straw,3472,36.48,Medium
+Madhya Pradesh,"19.7515° N, 75.7139° E",Sugarcane bagasse,3841,14.37,Medium
+Telangana,"23.6102° N, 85.2799° E",Maize husks,4133,33.93,High
+Nagaland,"31.1048° N, 77.1734° E",Rice straw,1874,22.11,Low
+Goa,"26.8467° N, 80.9462° E",Rice straw,4106,21.81,Medium
+Chhattisgarh,"15.9129° N, 79.7400° E",Rice straw,1966,30.74,Medium
+Uttar Pradesh,"30.0668° N, 79.0193° E",Rice straw,870,36.75,Low
+Andhra Pradesh,"24.6637° N, 93.9063° E",Maize stalks,486,27.63,Low
+Rajasthan,"15.2993° N, 74.1240° E",Rice straw,2382,25.33,Medium
+Karnataka,"23.9408° N, 91.9882° E",Rice straw,1531,33.31,High
+Himachal Pradesh,"26.1584° N, 94.5624° E",Rice straw,3600,15.22,High
+Manipur,"27.5330° N, 88.5122° E",Bamboo waste,1923,41.48,Low
+Kerala,"31.1471° N, 75.3412° E",Coconut shells,2141,19.76,High
+Mizoram,"10.8505° N, 76.2711° E",Rice straw,3461,10.01,Low
+Arunachal Pradesh,"20.9517° N, 85.0985° E", Jute stalks,3364,47.44,Low
+Chhattisgarh,"31.1048° N, 77.1734° E",Cotton stalks,1542,18.35,Low
+Goa,"23.9408° N, 91.9882° E",Rice straw,1929,42.66,Medium
+Uttar Pradesh,"22.9868° N, 87.8550° E",Cashew nut shells,1154,35.04,High
+Manipur,"22.9868° N, 87.8550° E",Banana stems,542,27.53,High
+Madhya Pradesh,"19.7515° N, 75.7139° E",Sugarcane bagasse,4558,20.62,Medium
+Tripura,"26.2006° N, 92.9376° E",Rice straw,4440,15.88,High
+Odisha,"27.0238° N, 74.2179° E",Rice straw,3258,23.32,Low
+Tripura,"24.6637° N, 93.9063° E",Cotton stalks,4254,48.13,High
+Meghalaya,"18.1124° N, 79.0193° E", Coconut shells,4263,49.05,High
+Gujarat,"23.1645° N, 92.9376° E",Rice straw ,2490,23.14,High
+Meghalaya,"11.1271° N, 78.6569° E",Rice straw,4957,4.77,Medium
+Sikkim,"15.2993° N, 74.1240° E",Rice straw,1622,9.93,High
+Nagaland,"22.2587° N, 71.1924° E",Rice straw ,2286,11.95,High
+Nagaland,"31.1048° N, 77.1734° E",Wheat straw,1337,29.33,Medium
+Odisha,"31.1471° N, 75.3412° E",Sugarcane bagasse,2667,3.89,High
+Nagaland,"30.0668° N, 79.0193° E",Rice straw,2146,48.27,Low
+Goa,"30.0668° N, 79.0193° E",Rice straw ,3730,43.76,High
+Goa,"31.1471° N, 75.3412° E",Cotton stalks,1076,34.68,High
+Goa,"26.2006° N, 92.9376° E",Apple pomace,982,24.21,Medium
+Nagaland,"20.9517° N, 85.0985° E",Coconut shells,3588,29.01,High
+Uttar Pradesh,"23.9408° N, 91.9882° E",Apple pomace,3902,21.56,High
+Telangana,"28.2170° N, 94.7278° E",Rice straw,464,24.87,Low
+Bihar,"26.8467° N, 80.9462° E",Rice straw ,2484,42.65,Medium
+Odisha,"28.2170° N, 94.7278° E",Rice straw,1042,32.08,Low
+Tripura,"25.4670° N, 91.3662° E", Coconut shells,3520,3.47,Low
+Chhattisgarh,"27.0238° N, 74.2179° E",Sugarcane bagasse,2099,41.35,High
+Nagaland,"22.9868° N, 87.8550° E",Maize stalks,4252,40.08,Medium
+Tripura,"25.0961° N, 85.3131° E",Soybean stalks,4308,6.31,Medium
+Arunachal Pradesh,"15.9129° N, 79.7400° E",Maize stalks,124,32.38,Low
+Gujarat,"31.1471° N, 75.3412° E",Maize stalks,2335,33.61,Medium
+Nagaland,"26.1584° N, 94.5624° E",Sugarcane bagasse,3275,21.16,Medium
+Manipur,"25.4670° N, 91.3662° E",Maize stalks,1198,18.74,High
+Gujarat,"11.1271° N, 78.6569° E",Maize stalks,2192,47.85,Medium
+Haryana,"15.9129° N, 79.7400° E",Wheat straw,2522,42.42,Medium
+Andhra Pradesh,"15.9129° N, 79.7400° E",Soybean stalks,2258,12.13,Low
+Arunachal Pradesh,"25.0961° N, 85.3131° E",Coconut shells,1073,9.31,Low
+Uttarakhand,"24.6637° N, 93.9063° E",Rice straw,1688,42.43,High
+Manipur,"30.0668° N, 79.0193° E",Cotton stalks,1656,12.3,Medium
+Madhya Pradesh,"15.3173° N, 75.7139° E",Rice straw,2484,36.55,Low
+Chhattisgarh,"26.1584° N, 94.5624° E",Maize stalks,1689,5.45,Medium
+Tripura,"19.7515° N, 75.7139° E",Sugarcane bagasse,1111,16.55,Medium
+Manipur,"28.2170° N, 94.7278° E",Cotton stalks,1135,25.84,Medium
+Himachal Pradesh,"22.9868° N, 87.8550° E",Bamboo waste,1364,26.53,Medium
+Meghalaya,"15.3173° N, 75.7139° E",Maize stalks,3514,30,High
+Sikkim,"24.6637° N, 93.9063° E",Cotton stalks,4828,19.29,Low
+Maharashtra,"23.1645° N, 92.9376° E",Buckwheat stalks,918,22.82,High
+Telangana,"22.9868° N, 87.8550° E",Cashew nut shells,3592,7.57,Low
+Manipur,"23.1645° N, 92.9376° E",Sugarcane bagasse,3900,35.79,Low
+Kerala,"15.3173° N, 75.7139° E",Sugarcane bagasse,334,33.99,Low
+Sikkim,"15.2993° N, 74.1240° E",Apple pomace,3623,35.72,High
+Karnataka,"23.6102° N, 85.2799° E",Rice straw,1416,4.31,High
+Punjab,"19.7515° N, 75.7139° E",Cotton stalks ,1478,23.97,Medium
+Gujarat,"26.1584° N, 94.5624° E",Buckwheat stalks,991,43.23,High
+Odisha,"22.2587° N, 71.1924° E",Maize stalks,2178,36.54,High
+Odisha,"15.2993° N, 74.1240° E",Maize stalks,2105,12.36,High
+Tamil Nadu,"11.1271° N, 78.6569° E",Bamboo waste,4076,8.56,Low
+Himachal Pradesh,"28.2170° N, 94.7278° E",Cotton stalks,1039,20.97,High
+Nagaland,"15.3173° N, 75.7139° E",Maize husks,1648,4.79,Medium
+Chhattisgarh,"30.0668° N, 79.0193° E",Buckwheat stalks,2200,35.03,High
+Odisha,"10.8505° N, 76.2711° E",Sugarcane bagasse,2105,36.05,High
+Nagaland,"22.9734° N, 78.6569° E",Maize stalks,2258,17.85,Medium
+Manipur,"27.5330° N, 88.5122° E",Rice straw,839,4,Low
+Andhra Pradesh,"23.6102° N, 85.2799° E",Rice straw,3327,14.83,High
+Maharashtra,"15.2993° N, 74.1240° E",Sugarcane bagasse,3864,5.67,High
+Rajasthan,"23.1645° N, 92.9376° E",Rice straw,3562,2.84,Medium
+Mizoram,"22.9868° N, 87.8550° E",Rice straw,2903,32.81,Low
+Nagaland,"18.1124° N, 79.0193° E",Rice straw,4652,28.25,Low
+West Bengal,"25.0961° N, 85.3131° E",Rice straw ,3385,9.31,Low
+Mizoram,"23.1645° N, 92.9376° E",Cotton stalks,3376,37.88,Low
+Arunachal Pradesh,"22.9734° N, 78.6569° E",Wheat straw,492,13.48,High
+Haryana,"25.4670° N, 91.3662° E",Cotton stalks,377,19.55,Low
+Sikkim,"25.0961° N, 85.3131° E",Mustard stalks,3612,31.88,Low
+Jharkhand,"15.2993° N, 74.1240° E",Cotton stalks,3864,27.31,Low
+Maharashtra,"15.2993° N, 74.1240° E",Maize husks,1172,47.47,Medium
+Uttarakhand,"18.1124° N, 79.0193° E",Rice straw,4881,4.99,High
+Jharkhand,"26.8467° N, 80.9462° E",Cotton stalks ,2395,8.45,Medium
+Haryana,"25.4670° N, 91.3662° E",Sugarcane bagasse,2600,31.8,High
+Himachal Pradesh,"22.2587° N, 71.1924° E",Maize stalks,2449,22.78,High
+Manipur,"26.2006° N, 92.9376° E",Rice straw,2667,12.04,Low
+Mizoram,"31.1048° N, 77.1734° E",Maize stalks,2480,27.31,Low
+Sikkim,"26.2006° N, 92.9376° E",Cotton stalks ,4775,47.67,Low
+Goa,"15.2993° N, 74.1240° E",Rice straw,969,31.87,Medium
+Sikkim,"26.8467° N, 80.9462° E",Rice straw,3742,19.04,High
+Sikkim,"30.0668° N, 79.0193° E",Wheat straw,1029,38.35,High
+Bihar,"24.6637° N, 93.9063° E",Maize stalks,2119,13.87,High
+Himachal Pradesh,"23.6102° N, 85.2799° E",Banana stems,2901,39.04,High
+Chhattisgarh,"20.9517° N, 85.0985° E",Maize stalks,3719,19.14,Medium
+Sikkim,"15.3173° N, 75.7139° E",Banana stems,2317,17.44,Medium
+Bihar,"18.1124° N, 79.0193° E",Sugarcane bagasse,2937,22.58,High
+Arunachal Pradesh,"27.5330° N, 88.5122° E",Cotton stalks,1296,7.69,High
+West Bengal,"19.7515° N, 75.7139° E",Bamboo waste,2276,4.16,High
+Tripura,"28.2170° N, 94.7278° E",Maize stalks,2551,38.2,Low
+Tripura,"31.1471° N, 75.3412° E",Sugarcane bagasse,4029,19.14,Medium
+Uttar Pradesh,"24.6637° N, 93.9063° E",Maize stalks,792,19.21,High
+Andhra Pradesh,"22.9734° N, 78.6569° E",Rice straw ,3799,3.32,High
+Rajasthan,"27.0238° N, 74.2179° E",Rice straw,2013,47.9,Medium
+West Bengal,"11.1271° N, 78.6569° E",Cotton stalks ,2880,22.71,Low
+Uttar Pradesh,"15.3173° N, 75.7139° E",Rice straw,2735,38.42,Low
+Bihar,"18.1124° N, 79.0193° E",Rice straw,4747,21.25,High
+Kerala,"27.0238° N, 74.2179° E",Maize stalks,1522,28.14,Medium
+Bihar,"27.0238° N, 74.2179° E",Maize stalks,3318,30.5,High
+Haryana,"26.1584° N, 94.5624° E",Rice straw,1490,40.92,High
+Nagaland,"23.1645° N, 92.9376° E",Rice straw,3707,18.92,Low
+Tripura,"10.8505° N, 76.2711° E",Rice straw,378,46.69,High
+Uttarakhand,"27.0238° N, 74.2179° E",Maize stalks,1480,36.71,Low
+Odisha,"15.3173° N, 75.7139° E",Maize stalks,483,2.07,High
+Odisha,"26.8467° N, 80.9462° E",Maize stalks,2898,21.97,High
+Tripura,"24.6637° N, 93.9063° E",Rice straw,1235,41.21,High
+Telangana,"18.1124° N, 79.0193° E",Maize stalks,3911,49.27,Low
+Uttarakhand,"15.3173° N, 75.7139° E",Maize stalks,371,5.77,Low
+Meghalaya,"23.1645° N, 92.9376° E",Rice straw,1076,47.71,Medium
+Himachal Pradesh,"28.2170° N, 94.7278° E",Maize stalks,252,8.24,High
+Tripura,"15.9129° N, 79.7400° E",Rice straw,2710,19.73,High
+Andhra Pradesh,"31.1471° N, 75.3412° E",Rice straw,3594,24.16,High
+Himachal Pradesh,"23.1645° N, 92.9376° E",Cotton stalks ,2624,8.82,Medium
+Jharkhand,"26.8467° N, 80.9462° E",Rice straw,1638,7.71,Medium
+Telangana,"18.1124° N, 79.0193° E",Rice straw ,2330,28.37,High
+Nagaland,"25.4670° N, 91.3662° E",Maize stalks,1251,45.52,Medium
+Sikkim,"26.8467° N, 80.9462° E",Rice straw,2635,40.28,High
+Mizoram,"22.9868° N, 87.8550° E",Pineapple leaves,3486,26.05,Medium
+Jharkhand,"30.0668° N, 79.0193° E",Rice straw ,1576,36.49,Low
+Telangana,"26.1584° N, 94.5624° E",Rice straw,2863,12.88,Low
+Jharkhand,"25.4670° N, 91.3662° E",Pineapple leaves,2575,15.92,Medium
+Odisha,"25.0961° N, 85.3131° E",Rice straw,3377,31.99,Low
+Haryana,"22.9868° N, 87.8550° E",Rice straw,3350,2.58,High
+Goa,"30.0668° N, 79.0193° E",Coconut shells,2024,18.94,High
+Assam,"19.7515° N, 75.7139° E",Groundnut shells,987,39.62,Medium
+Telangana,"27.0238° N, 74.2179° E",Rice straw,4921,17.96,Low
+Punjab,"28.2170° N, 94.7278° E",Rice straw,3865,37.21,Medium
+Kerala,"23.6102° N, 85.2799° E",Maize stalks,4955,49.54,Medium
+Chhattisgarh,"27.0238° N, 74.2179° E",Maize stalks,301,10.61,Medium
+Assam,"19.7515° N, 75.7139° E",Cotton stalks ,2088,11.11,High
+Tripura,"15.2993° N, 74.1240° E",Rice straw,2534,11.86,High
+Haryana,"15.9129° N, 79.7400° E",Banana stems,2733,35.11,Medium
+Maharashtra,"24.6637° N, 93.9063° E",Rice straw ,2700,6.42,Low
+Nagaland,"18.1124° N, 79.0193° E",Sugarcane bagasse,2949,35.78,Medium
+Maharashtra,"21.2787° N, 81.8661° E",Rice straw,4676,34.26,Medium
+Nagaland,"15.9129° N, 79.7400° E",Rice straw,1188,7.62,Low
+Uttarakhand,"29.0588° N, 76.0856° E", Coconut shells,3094,44.38,Low
+Karnataka,"26.1584° N, 94.5624° E",Bamboo waste,2561,34.65,High
+Arunachal Pradesh,"25.0961° N, 85.3131° E",Rice straw,182,47.96,Medium
+Tamil Nadu,"27.0238° N, 74.2179° E",Maize stalks,275,33.92,High
+Uttarakhand,"23.9408° N, 91.9882° E",Rice straw,1879,37.92,High
+Arunachal Pradesh,"24.6637° N, 93.9063° E",Rice straw,3062,30.29,Medium
+Rajasthan,"27.0238° N, 74.2179° E",Pineapple leaves,2359,11.79,High
+Kerala,"18.1124° N, 79.0193° E",Maize stalks,2884,12.29,Medium
+Telangana,"23.1645° N, 92.9376° E",Wheat straw,2350,24.03,Low
+Mizoram,"15.2993° N, 74.1240° E",Wheat straw,4533,19.87,Low
+Himachal Pradesh,"20.9517° N, 85.0985° E",Rice straw,2466,28.12,High
+Andhra Pradesh,"22.9868° N, 87.8550° E", Jute stalks,702,27.03,Low
+Chhattisgarh,"26.2006° N, 92.9376° E",Maize husks,394,14.9,High
+Odisha,"21.2787° N, 81.8661° E",Maize husks,4763,39.79,Medium
+Sikkim,"20.9517° N, 85.0985° E",Wheat straw,2567,27.68,High
+Haryana,"19.7515° N, 75.7139° E",Maize husks,162,16.03,Low
+Gujarat,"28.2170° N, 94.7278° E", Coconut shells,4451,21.57,High
+Kerala,"28.2170° N, 94.7278° E",Cotton stalks,3378,15.49,Medium
+Andhra Pradesh,"20.9517° N, 85.0985° E",Maize stalks,1024,5.38,Low
+Karnataka,"23.9408° N, 91.9882° E",Rice straw,2768,41.67,High
+Arunachal Pradesh,"26.2006° N, 92.9376° E",Rice straw ,295,46.38,Low
+Rajasthan,"10.8505° N, 76.2711° E",Rice straw,376,37.64,Medium
+Kerala,"22.9734° N, 78.6569° E",Rice straw ,2691,40.85,High
+Tamil Nadu,"27.0238° N, 74.2179° E",Rice straw,4509,47.17,High
+Chhattisgarh,"26.2006° N, 92.9376° E",Rice straw,2256,26.15,Medium
+Assam,"27.0238° N, 74.2179° E",Coconut shells,2612,18.55,Low
+Karnataka,"21.2787° N, 81.8661° E",Rice straw,3410,34.33,High
+Tamil Nadu,"26.8467° N, 80.9462° E",Rice straw ,1747,7.64,High
+Punjab,"15.3173° N, 75.7139° E",Sugarcane bagasse,584,37.16,Medium
+Karnataka,"30.0668° N, 79.0193° E",Rice straw,820,21.88,High
+Chhattisgarh,"18.1124° N, 79.0193° E",Rice straw,3079,7.68,Medium
+Goa,"22.2587° N, 71.1924° E",Rice straw,2394,13.7,Medium
+Uttarakhand,"29.0588° N, 76.0856° E",Cotton stalks,2510,28.73,Low
+Mizoram,"23.6102° N, 85.2799° E",Maize stalks,548,11.78,Low
+Uttarakhand,"15.9129° N, 79.7400° E",Bamboo waste,4288,27.56,High
+Tripura,"30.0668° N, 79.0193° E",Rice straw,4490,8.86,High
+Bihar,"22.2587° N, 71.1924° E",Rice straw,4500,34.59,High
+Punjab,"30.0668° N, 79.0193° E",Rice straw ,1876,31.34,Low
+Arunachal Pradesh,"29.0588° N, 76.0856° E",Rice straw,3800,12.65,Medium
+Madhya Pradesh,"30.0668° N, 79.0193° E",Cotton stalks,1196,27.71,High
+Karnataka,"29.0588° N, 76.0856° E",Cotton stalks ,2646,8.11,Low
+Bihar,"22.2587° N, 71.1924° E",Rice straw,4534,41.39,High
+Arunachal Pradesh,"15.2993° N, 74.1240° E",Rice straw,3089,20.62,Medium
+Andhra Pradesh,"25.4670° N, 91.3662° E",Maize stalks,2681,25,Low
+Punjab,"26.1584° N, 94.5624° E",Rice straw,831,28.19,Medium
+Himachal Pradesh,"15.9129° N, 79.7400° E",Cotton stalks,2704,49.48,High
+Rajasthan,"24.6637° N, 93.9063° E",Maize stalks,102,18.82,Low
+Arunachal Pradesh,"26.8467° N, 80.9462° E",Coconut shells,3293,18.8,Low
+Andhra Pradesh,"23.9408° N, 91.9882° E",Rice straw,770,40.62,High
+Telangana,"22.9734° N, 78.6569° E",Maize stalks,349,28.31,Low
+Punjab,"25.4670° N, 91.3662° E",Sugarcane bagasse,3892,2.7,Medium
+Sikkim,"24.6637° N, 93.9063° E",Rice straw,3263,11.36,High
+Meghalaya,"28.2170° N, 94.7278° E",Sugarcane bagasse,903,42.92,High
+Rajasthan,"15.2993° N, 74.1240° E",Mustard stalks,3616,36.39,Medium
+Bihar,"31.1471° N, 75.3412° E",Wheat straw,1054,43.35,Medium
+Chhattisgarh,"27.5330° N, 88.5122° E",Coconut shells,3378,28.78,Medium
+Tripura,"15.2993° N, 74.1240° E",Rice straw,957,23.64,High
+Tripura,"20.9517° N, 85.0985° E",Rice straw ,4390,47.08,Medium
+Andhra Pradesh,"24.6637° N, 93.9063° E",Rice straw ,4351,24.23,High
+Maharashtra,"26.1584° N, 94.5624° E",Rice straw,3146,39.29,Medium
+West Bengal,"26.2006° N, 92.9376° E",Banana stems,1463,39.14,High
+Bihar,"15.9129° N, 79.7400° E",Rice straw,2681,3.62,High
+Nagaland,"29.0588° N, 76.0856° E",Rice straw,2975,3.87,Low
+Assam,"22.9734° N, 78.6569° E", Jute stalks,465,44.63,Low
+Gujarat,"20.9517° N, 85.0985° E",Maize husks,2478,41.01,High
+Odisha,"18.1124° N, 79.0193° E",Sugarcane bagasse,3447,45.35,High
+Maharashtra,"25.4670° N, 91.3662° E",Maize stalks,1574,49.89,Medium
+Haryana,"29.0588° N, 76.0856° E",Cotton stalks,2950,3.08,Low
+Uttarakhand,"26.1584° N, 94.5624° E", Coconut shells,265,2.82,Low
+Meghalaya,"22.9868° N, 87.8550° E",Rice straw,3939,31.74,Medium
+Haryana,"26.2006° N, 92.9376° E",Sugarcane bagasse,3296,30.17,High
+Manipur,"23.6102° N, 85.2799° E",Maize husks,3621,35.96,Low
+Jharkhand,"18.1124° N, 79.0193° E",Rice straw,3002,46.55,Medium
+Maharashtra,"26.2006° N, 92.9376° E",Rice straw,3734,23.27,Medium
+Tripura,"27.0238° N, 74.2179° E",Maize stalks,1137,4.56,Low
+Himachal Pradesh,"19.7515° N, 75.7139° E",Rice straw,1198,10.03,High
+Rajasthan,"22.9734° N, 78.6569° E",Cotton stalks ,2605,28.63,High
+Bihar,"28.2170° N, 94.7278° E",Rice straw ,1778,11.8,Medium
+Tripura,"18.1124° N, 79.0193° E",Apple pomace,4288,47.54,Medium
+Mizoram,"22.9868° N, 87.8550° E",Maize husks,306,42.23,High
+Manipur,"20.9517° N, 85.0985° E",Maize stalks,3355,47.77,High
+Odisha,"23.9408° N, 91.9882° E",Maize stalks,3975,5.77,High
+Punjab,"27.5330° N, 88.5122° E", Coconut shells,4491,13.08,High
+Jharkhand,"26.8467° N, 80.9462° E",Rice straw,1041,33.63,Medium
+Telangana,"22.9868° N, 87.8550° E",Maize stalks,2302,37.4,Low
+Nagaland,"26.8467° N, 80.9462° E",Maize stalks,1928,45.07,Medium
+West Bengal,"25.0961° N, 85.3131° E",Rice straw,2754,39.24,High
+Punjab,"30.0668° N, 79.0193° E",Rice straw,3956,42.92,Medium
+Mizoram,"23.9408° N, 91.9882° E",Rice straw,2511,10.07,Low
+Tripura,"20.9517° N, 85.0985° E",Banana stems,4759,23.05,Low
+Punjab,"25.0961° N, 85.3131° E",Wheat straw,4431,15.36,Low
+Bihar,"24.6637° N, 93.9063° E",Maize stalks,1183,41.68,High
+Gujarat,"25.4670° N, 91.3662° E",Maize stalks,2248,10.17,Medium
+Odisha,"10.8505° N, 76.2711° E", Jute stalks,3813,41.81,Low
+Meghalaya,"26.2006° N, 92.9376° E",Maize stalks,1389,26.26,High
+Sikkim,"18.1124° N, 79.0193° E",Coconut shells,3316,23.2,Low
+West Bengal,"27.0238° N, 74.2179° E",Rice straw,325,24,High
+Telangana,"31.1048° N, 77.1734° E",Rice straw,2253,17.07,Low
+Gujarat,"31.1048° N, 77.1734° E",Maize stalks,2540,47.14,Medium
+Karnataka,"31.1048° N, 77.1734° E",Cotton stalks,546,28.86,Low
+Bihar,"26.1584° N, 94.5624° E",Maize stalks,3059,17.76,High
+Meghalaya,"31.1471° N, 75.3412° E",Cotton stalks,3024,47.67,High
+Madhya Pradesh,"22.2587° N, 71.1924° E",Rice straw,4505,13.03,Low
+Madhya Pradesh,"22.2587° N, 71.1924° E",Maize stalks,3358,8.78,Medium
+Maharashtra,"30.0668° N, 79.0193° E",Maize stalks,1766,10.78,Medium
+Karnataka,"25.4670° N, 91.3662° E",Maize stalks,2394,29.42,High
+Gujarat,"25.4670° N, 91.3662° E",Rice straw,3053,19.63,Low
+Tripura,"25.4670° N, 91.3662° E",Rice straw,4008,10.41,High
+Rajasthan,"25.4670° N, 91.3662° E",Sugarcane bagasse,2909,27.05,Low
+Tamil Nadu,"27.0238° N, 74.2179° E",Pineapple leaves,375,20.07,High
+Kerala,"25.0961° N, 85.3131° E",Pineapple leaves,4304,47.34,Low
+Gujarat,"31.1471° N, 75.3412° E",Rice straw,1620,39.08,Low
+West Bengal,"15.9129° N, 79.7400° E",Maize stalks,821,26.62,Medium
+Gujarat,"25.4670° N, 91.3662° E",Pineapple leaves,1856,35.99,Medium
+Sikkim,"15.3173° N, 75.7139° E",Maize stalks,1747,18.34,High
+Haryana,"21.2787° N, 81.8661° E",Sugarcane bagasse,2861,39.13,High
+Manipur,"23.1645° N, 92.9376° E",Sugarcane bagasse,2796,42.28,Low
+Nagaland,"15.2993° N, 74.1240° E",Bamboo waste,3891,13.4,Low
+Mizoram,"11.1271° N, 78.6569° E",Groundnut shells,3051,15.49,Medium
+Andhra Pradesh,"27.5330° N, 88.5122° E",Wheat straw,3213,20.82,Low
+Sikkim,"25.4670° N, 91.3662° E",Apple pomace,1604,13.37,High
+Karnataka,"31.1471° N, 75.3412° E",Coconut shells,1691,20.59,Medium
+Odisha,"11.1271° N, 78.6569° E",Rice straw,1356,15.57,Low
+Kerala,"23.9408° N, 91.9882° E",Sugarcane bagasse,1573,34.06,Low
+Maharashtra,"31.1048° N, 77.1734° E",Jute stalks,3318,11.23,Medium
+West Bengal,"20.9517° N, 85.0985° E",Rice straw,3897,15.32,High
+Gujarat,"26.8467° N, 80.9462° E",Maize stalks,3276,18.65,Medium
+Nagaland,"11.1271° N, 78.6569° E",Wheat straw,4991,14.53,Medium
+Punjab,"23.1645° N, 92.9376° E",Cashew nut shells,4667,19.88,Medium
+Telangana,"29.0588° N, 76.0856° E", Jute stalks,3458,9.22,Medium
+Madhya Pradesh,"23.1645° N, 92.9376° E",Maize stalks,1373,2.24,Medium
+Madhya Pradesh,"23.6102° N, 85.2799° E",Wheat straw,3181,10.51,High
+Maharashtra,"29.0588° N, 76.0856° E",Rice straw,370,24.19,Medium
+Sikkim,"22.9734° N, 78.6569° E",Rice straw ,2498,19.12,High
+Kerala,"18.1124° N, 79.0193° E",Rice straw,228,23.12,Medium
+Arunachal Pradesh,"15.3173° N, 75.7139° E",Rice straw,727,7.75,Medium
+Haryana,"11.1271° N, 78.6569° E",Sugarcane bagasse,1074,22.82,High
+Tripura,"27.5330° N, 88.5122° E",Maize stalks,1426,2.73,Low
+Karnataka,"19.7515° N, 75.7139° E",Rice straw,2873,27.11,High
+Tripura,"21.2787° N, 81.8661° E",Rice straw,1108,5.97,High
+Assam,"11.1271° N, 78.6569° E",Rice straw,410,19.35,Low
+Odisha,"24.6637° N, 93.9063° E",Rice straw,684,44.99,Low
+Uttar Pradesh,"24.6637° N, 93.9063° E",Coconut shells,2111,12.71,Low
+Gujarat,"25.0961° N, 85.3131° E",Maize stalks,831,49.21,Medium
+Meghalaya,"15.3173° N, 75.7139° E", Jute stalks,4869,4.42,High
+Andhra Pradesh,"22.9868° N, 87.8550° E", Coconut shells,4747,49.49,High
+Rajasthan,"30.0668° N, 79.0193° E",Mustard stalks,4600,37.77,Medium
+Nagaland,"11.1271° N, 78.6569° E",Wheat straw,3858,4.49,Medium
+Gujarat,"31.1048° N, 77.1734° E",Maize stalks,4691,25.14,Medium
+Tamil Nadu,"22.2587° N, 71.1924° E",Rice straw ,171,40.8,High
+Gujarat,"23.9408° N, 91.9882° E",Rice straw,1368,11.8,Low
+Karnataka,"23.9408° N, 91.9882° E",Coconut shells,3176,16.97,Medium
+Tripura,"31.1048° N, 77.1734° E",Pineapple leaves,4721,42.55,Low
+West Bengal,"29.0588° N, 76.0856° E",Rice straw,4770,47.05,High
+Nagaland,"23.6102° N, 85.2799° E",Maize stalks,1735,34.7,Medium
+Punjab,"10.8505° N, 76.2711° E",Apple pomace,3498,14.26,High
+Meghalaya,"26.1584° N, 94.5624° E",Cotton stalks,4137,34.44,High
+Arunachal Pradesh,"31.1471° N, 75.3412° E",Wheat straw,4927,45.55,High
+Maharashtra,"25.4670° N, 91.3662° E",Rice straw ,4966,13.11,Low
+Meghalaya,"21.2787° N, 81.8661° E",Rice straw,1680,42.15,Medium
+Uttar Pradesh,"31.1471° N, 75.3412° E",Mustard stalks,3484,15.71,Medium
+Himachal Pradesh,"23.9408° N, 91.9882° E",Rice straw,2880,21.11,High
+Tamil Nadu,"10.8505° N, 76.2711° E",Rice straw,2497,27.93,High
+Arunachal Pradesh,"24.6637° N, 93.9063° E",Coconut shells,2153,14.06,Low
+Punjab,"25.4670° N, 91.3662° E",Rice straw,1864,45.28,Medium
+West Bengal,"28.2170° N, 94.7278° E",Mustard stalks,3822,36.22,Low
+Rajasthan,"23.6102° N, 85.2799° E",Rice straw,2563,34.21,Medium
+Karnataka,"15.9129° N, 79.7400° E",Maize stalks,2297,39.6,High
+Rajasthan,"28.2170° N, 94.7278° E",Rice straw,2223,33.66,Medium
+Tripura,"27.0238° N, 74.2179° E",Rice straw,1914,5.15,High
+Assam,"18.1124° N, 79.0193° E",Sugarcane bagasse,4225,39.26,Medium
+West Bengal,"18.1124° N, 79.0193° E",Rice straw ,3196,40.27,Low
+Manipur,"22.9868° N, 87.8550° E",Cotton stalks ,1148,33.76,Medium
+Nagaland,"15.2993° N, 74.1240° E",Coconut shells,1720,42.08,High
+Andhra Pradesh,"15.2993° N, 74.1240° E",Mustard stalks,1077,4.43,Low
+Tripura,"26.8467° N, 80.9462° E",Maize husks,4678,3.38,Medium
+Assam,"27.5330° N, 88.5122° E",Maize husks,530,13.9,Medium
+Gujarat,"28.2170° N, 94.7278° E",Rice straw,2430,29.17,Low
+Telangana,"22.9868° N, 87.8550° E",Sugarcane bagasse,4770,4.43,High
+Sikkim,"31.1048° N, 77.1734° E",Apple pomace,4571,14.45,High
+Haryana,"26.1584° N, 94.5624° E",Cotton stalks,4825,18.2,Low
+Haryana,"22.2587° N, 71.1924° E",Maize stalks,1194,4.46,High
+Manipur,"28.2170° N, 94.7278° E",Rice straw,4423,35.3,Low
+Karnataka,"20.9517° N, 85.0985° E",Sugarcane bagasse,384,9.16,Low
+Nagaland,"15.9129° N, 79.7400° E", Coconut shells,4419,34.63,High
+Manipur,"11.1271° N, 78.6569° E",Rice straw,4666,40.54,Low
+Uttarakhand,"24.6637° N, 93.9063° E",Maize stalks,2681,18.19,Low
+Punjab,"26.8467° N, 80.9462° E",Rice straw,3506,41.65,Medium
+Arunachal Pradesh,"23.9408° N, 91.9882° E",Maize husks,3688,9.5,High
+Odisha,"15.3173° N, 75.7139° E",Pineapple leaves,3136,49.51,High
+Chhattisgarh,"27.0238° N, 74.2179° E",Rice straw,2282,7.63,Medium
+Nagaland,"15.3173° N, 75.7139° E",Rice straw,1730,24.45,Low
+Uttar Pradesh,"21.2787° N, 81.8661° E",Sugarcane bagasse,2463,33.94,Low
+Meghalaya,"27.5330° N, 88.5122° E",Banana stems,2276,8.2,High
+Bihar,"22.9734° N, 78.6569° E",Rice straw ,405,14.17,Medium
+Goa,"19.7515° N, 75.7139° E",Maize stalks,420,33.3,High
+Bihar,"15.9129° N, 79.7400° E",Mustard stalks,1231,4.93,Low
+Tripura,"27.5330° N, 88.5122° E",Coconut shells,111,9.29,Low
+Andhra Pradesh,"23.9408° N, 91.9882° E",Wheat straw,2177,20.15,Low
+Chhattisgarh,"27.0238° N, 74.2179° E",Wheat straw,944,33.73,Medium
+Telangana,"20.9517° N, 85.0985° E",Maize stalks,1360,31.09,Low
+Maharashtra,"27.0238° N, 74.2179° E",Wheat straw,2309,10.81,High
+Goa,"31.1471° N, 75.3412° E",Rice straw,4783,3.34,Medium
+Mizoram,"18.1124° N, 79.0193° E",Maize stalks,4255,39.32,Low
+Nagaland,"10.8505° N, 76.2711° E",Maize stalks,1509,33.86,Medium
+Manipur,"29.0588° N, 76.0856° E",Cashew nut shells,2760,29.69,High
+Kerala,"15.3173° N, 75.7139° E",Maize stalks,2769,6.31,Medium
+Gujarat,"23.1645° N, 92.9376° E",Cashew nut shells,4231,49.59,Medium
+Haryana,"26.1584° N, 94.5624° E", Jute stalks,2876,16.78,High
+Jharkhand,"31.1048° N, 77.1734° E",Maize stalks,294,14.17,High
+Haryana,"26.2006° N, 92.9376° E",Pineapple leaves,2808,32.42,High
+Meghalaya,"22.2587° N, 71.1924° E",Jute stalks,2543,17.53,High
+Gujarat,"25.0961° N, 85.3131° E",Sugarcane bagasse,3572,41.91,High
+Mizoram,"26.2006° N, 92.9376° E",Rice straw ,3966,21.3,Low
+Haryana,"27.5330° N, 88.5122° E",Rice straw,1368,36.18,High
+Tamil Nadu,"30.0668° N, 79.0193° E",Coconut shells,4995,42.86,Low
+Nagaland,"26.2006° N, 92.9376° E",Rice straw,425,40.99,Low
+Andhra Pradesh,"11.1271° N, 78.6569° E",Rice straw,4703,12.83,High
+Jharkhand,"27.5330° N, 88.5122° E",Coconut shells,4803,10.49,High
+Kerala,"15.2993° N, 74.1240° E",Rice straw,2675,49.79,Medium
+Uttarakhand,"18.1124° N, 79.0193° E",Rice straw ,4901,34.28,Low
+Manipur,"18.1124° N, 79.0193° E",Rice straw,3844,32.36,Low
+Maharashtra,"27.5330° N, 88.5122° E",Cashew nut shells,1744,14.32,Low
+Uttar Pradesh,"30.0668° N, 79.0193° E",Rice straw,270,10.96,Low
+Maharashtra,"26.8467° N, 80.9462° E",Rice straw ,2072,40.23,Low
+Bihar,"26.8467° N, 80.9462° E",Maize stalks,957,7.19,High
+Gujarat,"19.7515° N, 75.7139° E",Rice straw,4406,41.96,Low
+Haryana,"25.4670° N, 91.3662° E",Rice straw,4145,4.31,High
+Odisha,"23.1645° N, 92.9376° E",Maize husks,3446,35.09,Medium
+Tripura,"27.0238° N, 74.2179° E",Cotton stalks,4523,29.99,High
+Goa,"31.1471° N, 75.3412° E",Pineapple leaves,2044,35.62,Medium
+Sikkim,"26.8467° N, 80.9462° E",Rice straw,4241,37.15,High
+Madhya Pradesh,"30.0668° N, 79.0193° E",Maize stalks,2263,34.43,Medium
+Bihar,"11.1271° N, 78.6569° E",Coconut shells,3519,46.87,High
+Tripura,"19.7515° N, 75.7139° E",Maize husks,412,20.14,Medium
+Jharkhand,"23.1645° N, 92.9376° E",Maize stalks,2929,9.77,High
+Himachal Pradesh,"28.2170° N, 94.7278° E",Wheat straw,1873,19.03,High
+Haryana,"11.1271° N, 78.6569° E", Jute stalks,1046,2.01,High
+Uttarakhand,"30.0668° N, 79.0193° E",Sugarcane bagasse,605,4.95,Low
+Rajasthan,"25.0961° N, 85.3131° E", Coconut shells,1972,47.82,High
+Chhattisgarh,"25.0961° N, 85.3131° E",Maize stalks,4576,7.34,Medium
+Mizoram,"15.9129° N, 79.7400° E",Buckwheat stalks,1311,9.81,High
+Sikkim,"30.0668° N, 79.0193° E",Soybean stalks,1383,28.51,Low
+Chhattisgarh,"26.1584° N, 94.5624° E",Maize stalks,3936,14.2,Medium
+Sikkim,"19.7515° N, 75.7139° E",Maize stalks,1969,9.12,High
+Nagaland,"18.1124° N, 79.0193° E",Rice straw,4616,5.87,Low
+Rajasthan,"28.2170° N, 94.7278° E",Maize stalks,1401,24.89,Low
+Himachal Pradesh,"22.9734° N, 78.6569° E",Rice straw,4450,47.16,High
+Kerala,"22.9734° N, 78.6569° E",Rice straw ,4777,30.96,High
+Odisha,"31.1048° N, 77.1734° E",Rice straw,2180,9.16,Low
+Maharashtra,"31.1471° N, 75.3412° E",Rice straw,1369,6.13,Medium
+Mizoram,"27.5330° N, 88.5122° E",Rice straw,370,31.3,Low
+Uttarakhand,"31.1048° N, 77.1734° E",Maize stalks,1258,45.32,Low
+Mizoram,"27.5330° N, 88.5122° E",Rice straw,4775,11.57,Low
+Manipur,"10.8505° N, 76.2711° E", Coconut shells,1573,41.64,Medium
+West Bengal,"15.3173° N, 75.7139° E",Rice straw,4339,43.58,High
+Maharashtra,"26.8467° N, 80.9462° E",Rice straw,4628,29.44,Medium
+Meghalaya,"26.2006° N, 92.9376° E",Coconut shells,3224,27.12,Medium
+Punjab,"29.0588° N, 76.0856° E",Rice straw,1024,2.59,Medium
+Chhattisgarh,"19.7515° N, 75.7139° E",Rice straw,134,4.46,Medium
+Gujarat,"24.6637° N, 93.9063° E",Rice straw,3238,20.37,Low
+Jharkhand,"18.1124° N, 79.0193° E",Pineapple leaves,1814,4.98,Medium
+Kerala,"29.0588° N, 76.0856° E",Cotton stalks,3366,44.15,Medium
+Uttarakhand,"25.0961° N, 85.3131° E",Rice straw,938,4.12,High
+Kerala,"23.9408° N, 91.9882° E",Rice straw,1551,4.19,Medium
+Tamil Nadu,"25.0961° N, 85.3131° E", Jute stalks,3540,5.71,High
+Madhya Pradesh,"11.1271° N, 78.6569° E",Maize stalks,4017,13.8,Medium
+Sikkim,"26.2006° N, 92.9376° E",Rice straw ,1550,4.25,High
+Sikkim,"22.2587° N, 71.1924° E",Cotton stalks,2805,34.27,Low
+Uttar Pradesh,"22.9868° N, 87.8550° E",Sugarcane bagasse,4306,21.86,Low
+Tamil Nadu,"23.1645° N, 92.9376° E",Maize stalks,422,48.45,High
+Telangana,"31.1471° N, 75.3412° E",Maize stalks,2576,13.37,Low
+Uttarakhand,"31.1048° N, 77.1734° E",Rice straw ,2997,34.52,Low
+Tripura,"18.1124° N, 79.0193° E",Cashew nut shells,594,22.98,Low
+West Bengal,"15.2993° N, 74.1240° E",Rice straw,4230,17.6,High
+Gujarat,"30.0668° N, 79.0193° E",Rice straw ,1551,25.51,High
+Sikkim,"22.9868° N, 87.8550° E", Coconut shells,3834,2.8,Low
+Goa,"22.9868° N, 87.8550° E",Cotton stalks,2079,29.76,High
+Uttar Pradesh,"23.9408° N, 91.9882° E",Rice straw,226,21.96,Low
+Kerala,"30.0668° N, 79.0193° E", Coconut shells,4179,38.91,High
+Bihar,"27.5330° N, 88.5122° E",Rice straw,4186,29.45,High
+Karnataka,"22.9734° N, 78.6569° E",Cotton stalks ,2212,19.01,Low
+Kerala,"27.5330° N, 88.5122° E",Maize husks,1475,19.17,Low
+Kerala,"29.0588° N, 76.0856° E",Rice straw,2040,24.64,Medium
+Tamil Nadu,"27.5330° N, 88.5122° E",Maize husks,3259,37.63,Low
+Bihar,"23.9408° N, 91.9882° E",Maize stalks,2487,35.57,High
+Uttarakhand,"11.1271° N, 78.6569° E",Rice straw,2680,37.28,High
+Tripura,"10.8505° N, 76.2711° E",Maize stalks,3929,22.12,Low
+Rajasthan,"15.9129° N, 79.7400° E",Rice straw,4253,2.31,Medium
+Odisha,"26.2006° N, 92.9376° E",Rice straw ,1198,30.07,Low
+Mizoram,"10.8505° N, 76.2711° E",Rice straw,4341,36.29,Low
+Tamil Nadu,"26.1584° N, 94.5624° E",Rice straw ,4348,3.08,High
+Haryana,"23.1645° N, 92.9376° E",Rice straw,4918,31.36,High
+Andhra Pradesh,"27.0238° N, 74.2179° E",Rice straw,4676,14.9,High
+Madhya Pradesh,"11.1271° N, 78.6569° E",Jute stalks,2168,22.47,High
+Sikkim,"31.1471° N, 75.3412° E",Rice straw,1101,39.09,High
+Himachal Pradesh,"10.8505° N, 76.2711° E",Sugarcane bagasse,4576,40.97,Low
+Punjab,"21.2787° N, 81.8661° E",Rice straw ,1511,14.77,Low
+Uttar Pradesh,"26.2006° N, 92.9376° E",Rice straw,3432,29.1,Low
+Andhra Pradesh,"24.6637° N, 93.9063° E",Cotton stalks,3360,15.79,Low
+Tamil Nadu,"21.2787° N, 81.8661° E",Maize stalks,1240,2.04,High
+Gujarat,"26.1584° N, 94.5624° E", Jute stalks,4848,34.39,Medium
+Uttar Pradesh,"25.0961° N, 85.3131° E",Sugarcane bagasse,1881,21.71,Low
+Punjab,"31.1471° N, 75.3412° E",Sugarcane bagasse,1274,20.53,Medium
+Assam,"22.9868° N, 87.8550° E",Rice straw,898,48.35,Low
+Tamil Nadu,"15.9129° N, 79.7400° E",Rice straw,3184,22.55,High
+Arunachal Pradesh,"26.1584° N, 94.5624° E",Maize husks,3033,17.04,High
+Jharkhand,"18.1124° N, 79.0193° E",Wheat straw,4579,45.64,Low
+Sikkim,"22.9868° N, 87.8550° E",Rice straw,3017,32.8,High
+Madhya Pradesh,"29.0588° N, 76.0856° E",Rice straw ,4427,40.99,High
+Haryana,"26.8467° N, 80.9462° E",Rice straw,1677,28.2,High
+Maharashtra,"21.2787° N, 81.8661° E",Bamboo waste,4092,45.77,Medium
+Assam,"24.6637° N, 93.9063° E",Rice straw,1562,26.03,Low
+Uttar Pradesh,"23.1645° N, 92.9376° E",Cotton stalks,1289,2.25,Low
+Telangana,"15.3173° N, 75.7139° E",Maize stalks,1307,13.31,Low
+Uttar Pradesh,"23.6102° N, 85.2799° E",Maize stalks,3897,43.21,High
+Andhra Pradesh,"24.6637° N, 93.9063° E",Maize stalks,1435,33.05,Low
+Tamil Nadu,"31.1471° N, 75.3412° E",Rice straw,2430,48.05,High
+Kerala,"27.0238° N, 74.2179° E",Coconut shells,789,21.29,High
+Himachal Pradesh,"26.1584° N, 94.5624° E",Maize stalks,1512,49.1,High
+Nagaland,"26.8467° N, 80.9462° E",Groundnut shells,546,35.87,High
